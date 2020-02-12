@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_today"
+        android:enabled="true"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="지도"/>
+
+    <item
+        android:id="@+id/action_add"
+        android:enabled="true"
+        android:icon="@drawable/ic_event_available_black_24dp"
+        android:title="일정 추가"/>
+
+    <item
+        android:id="@+id/action_setting"
+        android:enabled="true"
+        android:icon="@drawable/blue_button"
+        android:title="경요리의픽"/>
+
+</menu>
